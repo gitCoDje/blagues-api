@@ -13,5 +13,5 @@ Vanilla JS, Fetch API, Clipboard API
 ## Démo
 Ouvrir `index.html`
 
-## API
+## API Site
 [blablagues.net](https://www.blablagues.net/)
